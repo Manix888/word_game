@@ -27,5 +27,6 @@
 
 # Контакты
 Если у вас есть идея или у вас появилась ошибка в коде то пишите на мой Discord:
+
 [![Discord](https://img.shields.io/badge/-My_Discord-090909?style=for-the-badge&logo=discord&logoColor=5B72BF)](https://discordapp.com/users/692313869057785886)<br>
 (**Erkin#3217**)
