@@ -12,7 +12,7 @@
     ```
 
 # Запуск
-Скачиваете файлы [main.py](https://raw.githubusercontent.com/Manix888/word_game/master/main.py) и [word_rus.txt](https://raw.githubusercontent.com/Manix888/word_game/master/main.py) (переходите по ссылке и нажимаете `Ctrl`+`S`) и помещаете их в одну дерикторию (папку) и запускаете `main.py`.
+Скачиваете файлы [main.py](https://raw.githubusercontent.com/Manix888/word_game/master/main.py) и [word_rus.txt](https://raw.githubusercontent.com/Manix888/word_game/master/word_rus.txt) (переходите по ссылке и нажимаете `Ctrl`+`S`) и помещаете их в одну дерикторию (папку) и запускаете `main.py`.
 
 # Особенности
 В коде используется алгоритм [бинарного (двоичного) поиска](https://ru.wikipedia.org/wiki/Двоичный_поиск). Благодаря нему в коде вместо `34000` итераций проходит всего `30`.<br>
