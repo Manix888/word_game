@@ -69,7 +69,7 @@ while True:
             ans += Fore.RED + f'{choice}'
         letter_dict.remove(choice)
 
-    print(f'Решение:\n{ans}')
+    print(f'Решения:\n{ans}')
     print(f'Поиск слов выполнен за ' + Fore.GREEN + f'{iterations}' + Fore.RESET + ' итераций бинарного поиска\n')
     if input('Продолжить (Y/N)? > ').lower() in ['n', 'н']:
         break
