@@ -52,7 +52,7 @@ while True:
         indexes.append(right)
 
     if answer_letter == 'z':
-        indexes[1] = 35135
+        indexes[1] = 65135
     letter_dict = eng_dict[indexes[0]:indexes[1]]
     ans = ''
 
