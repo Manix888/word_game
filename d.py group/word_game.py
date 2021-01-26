@@ -5,11 +5,11 @@ from discord.ext import commands, tasks
 
 
 # Код
-class Fun(commands.Cog):
+class Word_game(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         self._last_member = None
-        self.cog_name = ["Фановые"]
+        self.cog_name = ["Игра_в_слова"]
         self.check.start()
         self.game = {  # Данные игры
             'on': None,
@@ -172,4 +172,4 @@ class Fun(commands.Cog):
 
 
 def setup(client):
-    client.add_cog(Fun(client))
+    client.add_cog(Word_game(client))
