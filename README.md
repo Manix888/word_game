@@ -22,7 +22,7 @@
 - Желтый - слова _средней длины_
 - Красный - _длинные_ слова
 
-Основной код поддерживает два языка: `английский` и `русский`. Если вам нужен только один из этих языков, то просто переходите в нужную папку ([eng](https://github.com/Manix888/word_game/tree/master/eng_only) [rus](https://github.com/Manix888/word_game/tree/master/rus_only))
+Основной код поддерживает два языка: `английский` и `русский`. Если вам нужен только один из этих языков, то просто переходите в нужную папку ([eng](https://github.com/Manix888/word_game/tree/master/eng_only)/[rus](https://github.com/Manix888/word_game/tree/master/rus_only))
 
 # Пример работы
 ![Example](https://github.com/Manix888/word_game/blob/master/assets/Example.png)
