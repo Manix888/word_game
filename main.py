@@ -21,7 +21,6 @@ first_words = ['абажур', 'баба-яга', 'вабик', 'габарди�
                'kabul', 'lab', 'maastricht', 'naafi', "o'clock", 'pablo', 'qatar', 'rabat', 'sabbath', 'tab',
                'ubiquitous', 'vacancies', 'wad', 'xavier', 'yacht', 'zabaglione']
 
-
 while True:
     word = input('> ').lower()  # ввод слова
     answer_letter = word[-1]  # буква, на которую должно начинаться ответное слово
