@@ -22,7 +22,8 @@
 Еще я делал код под **коги**. Если у вас их нет, то думаю переделывание кода не составит большого труда.
 
 # Пример работы
-![Example](https://github.com/Manix888/word_game/blob/master/assets/word_game%20showcase.mp4])
+![Example](https://github.com/Manix888/word_game/blob/master/assets/word_game-showcase.gif)<br>
+Извините за качество
 
 # Контакты
 Если у вас есть идея или у вас появилась ошибка в коде, то пишите на мой Discord:
