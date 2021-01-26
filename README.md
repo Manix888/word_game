@@ -12,7 +12,7 @@
     ```
 
 # Запуск
-Скачиваете файлы [main.py](https://raw.githubusercontent.com/Manix888/word_game/master/main.py) и [word_rus.txt](https://raw.githubusercontent.com/Manix888/word_game/master/word_rus.txt) (переходите по ссылке и нажимаете `Ctrl`+`S`) и помещаете их в одну дерикторию (папку) и запускаете `main.py`.
+Скачиваете файлы [main.py](https://raw.githubusercontent.com/Manix888/word_game/master/main.py) и `txt` файлы [word_rus.txt](https://raw.githubusercontent.com/Manix888/word_game/master/word_rus.txt) [word_eng](https://raw.githubusercontent.com/Manix888/word_game/master/word_eng.txt) (переходите по ссылке и нажимаете `Ctrl`+`S`). Все скачанные файлы помещаете их в одну дерикторию (папку) и запускаете `main.py`.
 
 # Особенности
 В коде используется алгоритм [бинарного (двоичного) поиска](https://ru.wikipedia.org/wiki/Двоичный_поиск). Благодаря нему в коде вместо `34000` итераций проходит всего `30`.
@@ -21,6 +21,8 @@
 - Зеленый - _короткие_ слова
 - Желтый - слова _средней длины_
 - Красный - _длинные_ слова
+
+Основной код поддерживает два языка: `английский` и `русский`. Если вам нужен только один из этих языков, то просто переходите в нужную папку ([eng](https://github.com/Manix888/word_game/tree/master/eng_only) [rus](https://github.com/Manix888/word_game/tree/master/rus_only))
 
 # Пример работы
 ![Example](https://github.com/Manix888/word_game/blob/master/assets/Example.png)
